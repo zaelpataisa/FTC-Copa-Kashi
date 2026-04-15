@@ -6,23 +6,32 @@ Aquí FIRST trabaja con The LEGO Foundation y LEGO Education
 ⚠️ No ha habido antecedentes previos de una FLL en la región Venezolana.
 
 **Se divide en tres categorías:**
+
 📌 FLL Discover:   04 - 06 años
+
 📌 FLL Explorer:   06 - 10 años
+
 📌 FLL Challenge:  09 - 16 años
 
 ## INFORMACIÓN DEL EQUIPO
 
 📌 **Nombre:** AndroKids
+
 📌 **Patrocinador/Dueño:** TechCreativos
+
 📌 No cuentan con Portfolio de Ingenería como en FTC, si no que desarrollan un Poster *(Faltan indicaciones)*
 
 ## INFORMACIÓN DEL ROBOT DE LA COMPETENCIA
 
 **Lego Spike Prime** (Según Emperatriz, pero veo que utilizan más bien uno dedicado para la competencia)
+
 Este cuenta con un Core Set y un Expansion Set.
+
 **Nota:** *Creo que son el mismo, lo que brinda FLL es un material de instrucciones adicional para usarlo con esas piezas.*
 
+
 📌 Este tendrá una serie de **estructuras armables/desarmables**.
+
 📌 La Copa Kashi 2026 **no tendrá modo autónomo.**
 
 🔗 [Paquete del robot (por verificar)](https://education.lego.com/es-es/products/lego-education-spike-prime-set/45678/)
@@ -36,21 +45,29 @@ Este cuenta con un Core Set y un Expansion Set.
 **1. Requerimientos.**
 
 📌 LEGO Education SPIKE Prime Set: Core Set & Expansion Set.
+
 📌 Dispositivos electrónicos compatibles con el [Software LEGO Education SPIKE](https://education.lego.com/es-es/downloads/spike-app/software/) (Android, Windows, iOS, Chromebook)
+
 📌 El Set del desafio SUBMERGED *(No lo consigo)*
+
 📌 Mesa de Desafio
 
 **2. Manuales.**
 
 Hay 3 manuales (Inglés. Traducidos al Español con Google Translate):
+
 📌 **TEAM MEETING GUIDE:** Formación integral del equipo, tanto retadores como mentores.
+
 📌 **ROBOT GAME RULEBOOK:**
+
 📌 **ENGINEERING NOTEBOOK:**
 
 *✍️ En progreso...*
 *Por ver:*
 • [FIRST LEGO League Challenge SUBMERGED Robot Game Missions Video](https://www.youtube.com/watch?v=J5u-2q_K3O0&list=PLpaPRqT711tjwqCm8sJGYf57ceW_SwFU4&index=6)
+
 • [SUBMERGED Field Setup Video](https://www.youtube.com/watch?v=Kk8jnsBgl9o&list=PLpaPRqT711tjwqCm8sJGYf57ceW_SwFU4&index=7)
+
 • [2025 World Festival at the FIRST Championship Recap](https://www.youtube.com/watch?v=3J8m9sXENUY&list=PLpaPRqT711tjwqCm8sJGYf57ceW_SwFU4&index=10)
 
 ------------------------
